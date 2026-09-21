@@ -1,6 +1,7 @@
 ;=========================================================
 ; ACTIVIDAD I - MICROPROCESADORES
 ; MICROPROCESADOR Z80
+; By Alexis Romero
 ;=========================================================
 ;
 ; FUNCION DEL PROGRAMA:
